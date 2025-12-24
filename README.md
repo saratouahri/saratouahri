@@ -12,7 +12,7 @@
 
 ## About
 
-  - 🌱 I’m currently a final year Master's **computer engineering student**.
+  - 🌱 I’m a  **computer engineering Engineer **.
 
 - 👯 Looking to collaborate on any interresting software project.
 

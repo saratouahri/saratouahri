@@ -12,7 +12,7 @@
 
 ## About
 
-  - 🌱 I’m a  **computer engineering Engineer **.
+  - 🌱 I’m a  **Software Engineer **.
 
 - 👯 Looking to collaborate on any interresting software project.
 
